@@ -52,7 +52,7 @@ node main.js              # Runs the tree script
 
 ---
 
-## 💻 Example Output
+## 💻 Example output
 
 ```
 Initial data: [42, 30, 81, 99, 62, 15, 95, 83, 66, 64, 42, 27, 81, 12, 52]
